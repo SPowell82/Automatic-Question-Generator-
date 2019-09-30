@@ -12,7 +12,7 @@ Go to the 'SelectWebsites' class, and place a link to your desired website in an
 
 # Updates:
 
-There are several improvements to be made. For example, the process of randomly selecting a searchTerm of URL/link from an array is pseudorandom as it uses the python random libray. A better approach would be to use the 'secrets' libray:
+There are several improvements to be made. For example, the process of randomly selecting a searchTerm or URL/link from an array is pseudorandom as it uses the python random libray. A better approach would be to use the 'secrets' libray:
 
 -- from secrets import randbelow
 
