@@ -1,3 +1,12 @@
+# This code is not the property of the current project. 
+# It has been downloaded from github as there was an issue importing the file. 
+# This allows the current project to use the provided functions to assist in the MCQ.py program. 
+# The github link is provided below:
+
+# https://github.com/xang1234
+
+#######################################################################################################
+
 # -*- coding: utf-8 -*-
 """
 Created on Wed Aug 15 21:38:13 2018
