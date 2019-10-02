@@ -7,7 +7,7 @@ The current version is designed for users to operate the program in the terminal
 
 # Adding a link/searchterm:
 
-Go to the 'SelectWebsites' class, and place a link to your desired website in an array inside the 'possibleTopics' function. If you are using Wikipedia, place the searchTerm only. Return this array and add a name for it in the terminal (i.e. history). The program will generate questions once you provide this name in the terminal.
+Go to the 'SelectWebsites' class, and place a link to your desired website in an array inside the 'possibleTopics' function. If you are using Wikipedia, place the searchTerm only. Return this array and add a name for it in the 'identifyTopic' function (i.e. history). The program will generate questions once you provide this name in the terminal.
 
 
 # Updates:
